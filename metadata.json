@@ -1,0 +1,6 @@
+{
+  "name": "Christmas School",
+  "description": "A festive, welcoming, and responsive school website for Christmas School featuring learning programs, educational games, event schedules, AI guide, and community resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
